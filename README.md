@@ -27,7 +27,17 @@
 
 - **Hardware-Agnostic Framework**  
   • Easily swap in different acquisition systems or exoskeleton interfaces  
-  • Configurable via YAML/JSON for channel layouts, filter parameters, model paths  
+  • Configurable via YAML/JSON for channel layouts, filter parameters, model paths
+
+- Data & Resources
+MNE Python tutorials
+https://mne.tools/dev/auto_tutorials/intro/10_overview.html
+
+EEG signal analysis guide
+https://reybahl.medium.com/eeg-signal-analysis-with-python-fdd8b4cbd306
+
+Stanford dataset description
+https://purl.stanford.edu/tc919dd5388
 
 ## Installation
 
